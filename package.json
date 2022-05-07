@@ -1,0 +1,20 @@
+{
+  "name": "ginutec_webcam",
+  "version": "0.0.1",
+  "description": "Ferramenta de captura para webcam - FeCaWeb - Ginutec.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "webcam",
+    "electron",
+    "ginutec"
+  ],
+  "author": "Waldemberg D. Ginú",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
