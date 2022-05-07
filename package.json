@@ -1,7 +1,7 @@
 {
   "name": "ginutec_webcam",
   "version": "0.0.1",
-  "description": "Ferramenta de captura para webcam - FeCaWeb - Ginutec.",
+  "description": "Ferramenta de Captura para Webcam - FeCaWeb - Ginutec.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
